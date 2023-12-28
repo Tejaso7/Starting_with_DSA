@@ -1,0 +1,5 @@
+def binarysearch(arr,x,low,high):
+    if low>high:
+        return -1
+   
+         
